@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#B#",
+    "#B#",
+    "#B#"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bedrock"
+    },
+    "#": {
+      "item": "minecraft:air"
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_shovel"
+  }
+}
